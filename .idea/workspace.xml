@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="F103Btld" targetName="F103Btld" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fa0c7db-10d0-4882-81cc-4b504778e723" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1Sy3MO41LqTAfrIzZaUcwb379X7" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HardWare" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HardWare" />
+      <recent name="$PROJECT_DIR$/Tools" />
+      <recent name="$PROJECT_DIR$/Startup" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tools/inc" />
+      <recent name="$PROJECT_DIR$/Startup" />
+      <recent name="$PROJECT_DIR$/Inc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Makefile.clean">
+    <configuration name="F103Btld" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="F103Btld" TARGET_NAME="F103Btld" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="F103Btld" RUN_TARGET_NAME="F103Btld">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="all" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="clean" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="clean" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="F103Btld" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" nameIsGenerated="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="F103Btld" TARGET_NAME="F103Btld" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/build/F103Btld.elf">
+      <openocd gdb-port="3333" telnet-port="4444" board-config="$USER_HOME$/stm32f1.cfg" reset-type="INIT" download-type="ALWAYS" />
+      <method v="2">
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="all" run_configuration_type="MAKEFILE_TARGET_RUN_CONFIGURATION" />
+        <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_WriteFlash" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.F103Btld" />
+      <item itemvalue="Makefile.all" />
+      <item itemvalue="Makefile.clean" />
+      <item itemvalue="OpenOCD Download &amp; Run.F103Btld" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile.clean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fa0c7db-10d0-4882-81cc-4b504778e723" name="Default Changelist" comment="" />
+      <created>1572521959275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572521959275</updated>
+      <workItem from="1572521960817" duration="379000" />
+      <workItem from="1572522488981" duration="63000" />
+      <workItem from="1572522581938" duration="53000" />
+      <workItem from="1572522681865" duration="690000" />
+      <workItem from="1572523544325" duration="1067000" />
+      <workItem from="1572524690107" duration="755000" />
+      <workItem from="1572564131596" duration="1040000" />
+      <workItem from="1572569577404" duration="909000" />
+      <workItem from="1572596771704" duration="2003000" />
+      <workItem from="1572599390878" duration="8320000" />
+      <workItem from="1572651810209" duration="16000" />
+      <workItem from="1572651866007" duration="1352000" />
+      <workItem from="1572667482765" duration="2924000" />
+      <workItem from="1572738568400" duration="217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="F103Btld"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="F103Btld">
+				<Option output="/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/F103Btld" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/shuuyou/STM32Cube/Repository/F103Btld/HardWare/inc"/>
+					<Add directory="/Users/shuuyou/STM32Cube/Repository/F103Btld/Inc"/>
+					<Add directory="/Users/shuuyou/STM32Cube/Repository/F103Btld/Startup"/>
+					<Add directory="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/inc"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 F103Btld"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="F103Btld/fast">
+				<Option output="/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/F103Btld" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/shuuyou/STM32Cube/Repository/F103Btld/HardWare/inc"/>
+					<Add directory="/Users/shuuyou/STM32Cube/Repository/F103Btld/Inc"/>
+					<Add directory="/Users/shuuyou/STM32Cube/Repository/F103Btld/Startup"/>
+					<Add directory="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/inc"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 F103Btld/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuuyou/STM32Cube/Repository/F103Btld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/App/main.c">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/HardWare/Led.c">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/HardWare/Timer.c">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/HardWare/Uart.c">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/HardWare/inc/Led.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/HardWare/inc/Timer.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/HardWare/inc/Uart.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Inc/cmsis_gcc.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Inc/core_cm3.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Inc/core_cmFunc.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Inc/core_cmInstr.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Inc/stm32f103xe.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Startup/Public.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Startup/sys.c">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Startup/sys.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/CrcUtil.c">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/IapHwOpts.c">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/IapUtil.c">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/TaskList.c">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/TaskManager.c">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/inc/CrcUtil.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/inc/IapHwOpts.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/inc/IapUtil.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/inc/TaskList.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/inc/TaskManager.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/inc/malloc.h">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/Tools/malloc.c">
+			<Option target="F103Btld"/>
+		</Unit>
+		<Unit filename="/Users/shuuyou/STM32Cube/Repository/F103Btld/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
